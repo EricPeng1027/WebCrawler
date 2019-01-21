@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Dangdang_book_rank/.idea/Dangdang_book_rank.iml" filepath="$PROJECT_DIR$/../Dangdang_book_rank/.idea/Dangdang_book_rank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Maoyan_movie_top100.iml" filepath="$PROJECT_DIR$/.idea/Maoyan_movie_top100.iml" />
+    </modules>
+  </component>
+</project>
